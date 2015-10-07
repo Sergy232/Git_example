@@ -4,6 +4,7 @@ public class Kaixo {
 
 	public static void main(String[] args) {
 		System.out.println("Kaixo mundua");
+		System.out.println("Soy muy tonto");
 	}
 
 }
